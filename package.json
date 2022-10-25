@@ -1,6 +1,6 @@
 {
   "name": "runaga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a runner for js files with node",
   "main": "./bin/index.js",
   "scripts": {
