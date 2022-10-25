@@ -1,0 +1,23 @@
+{
+  "name": "runaga",
+  "version": "1.0.0",
+  "description": "this is a runner for js files with node",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AgaCraft",
+  "license": "ISC",
+  "bin": {
+    "runaga": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianCraft07/runaga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdrianCraft07/runaga/issues"
+  },
+  "homepage": "https://github.com/AdrianCraft07/runaga#readme"
+}
