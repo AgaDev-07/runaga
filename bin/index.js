@@ -92,7 +92,7 @@ function run() {
   log.info(package.version);
   log.info(`watching path(s) "${DIRECTORY}"`);
   log.info(`watching extensions ${config.extensions}`);
-  watch(DIRECTORY);
+  setTimeout(()=>watch(DIRECTORY), 10_000)
 }
 
 run();
